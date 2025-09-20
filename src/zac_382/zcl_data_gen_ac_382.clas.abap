@@ -15,6 +15,8 @@ class zcl_data_gen_ac_382 implementation.
 
   method if_oo_adt_classrun~main.
 
+
+" testing new change in GitHub
     data: lt_acc_categ type table of ztb_acc_categ_lg,
           lt_catego    type table of ztb_catego_lgl,
           lt_clientes  type table of ztb_clientes_lgl,
